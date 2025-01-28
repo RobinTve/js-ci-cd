@@ -6,7 +6,7 @@ export default [
   {
     languageOptions: { globals: globals.browser },
     rules: {
-      'no-console': 'warn',
+      'no-console': 'error',
     },
   },
 
