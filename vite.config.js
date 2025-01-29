@@ -1,3 +1,3 @@
 export default {
-  base: '/vite-deploy-demo/',
+  base: '/js-ci-cd/',
 };
